@@ -15,7 +15,7 @@ project:      # Set this to the ID of your Wokwi project (the number from the pr
   source_files:
     - "project.v"
     - "lif_neuron_system.v"
-    - "lif_neuron_neuron.v"
+    - "lif_neuron.v"
     - "serial_data_loader.v"
 
 
